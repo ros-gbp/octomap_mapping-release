@@ -1,0 +1,12 @@
+Source: ros-hydro-octomap-mapping
+Section: misc
+Priority: extra
+Maintainer: Armin Hornung <hornunga@informatik.uni-freiburg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/octomap_mapping
+Standards-Version: 3.9.2
+
+Package: ros-hydro-octomap-mapping
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-octomap-server
+Description: Mapping tools to be used with the OctoMap library, implementing a 3D occupancy grid mapping.
