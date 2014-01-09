@@ -1,3 +1,24 @@
+## octomap_mapping - 0.5.3-0
+
+User `hornunga@colorrado` released the packages in the `octomap_mapping` repository by running `/usr/bin/bloom-release octomap_mapping --track hydro --ros-distro hydro` on `Thu, 09 Jan 2014 11:12:11 -0000`
+
+These packages were released:
+- `octomap_mapping`
+- `octomap_server`
+
+Version of package(s) in repository `octomap_mapping`:
+- rosdistro version: `0.5.2-0`
+- old version: `0.5.2-0`
+- new version: `0.5.3-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.24`
+- rosdep version: `0.10.23`
+- rosdistro version: `0.2.17`
+- vcstools version: `0.1.32`
+
+
 ## octomap_mapping - 0.5.2-0
 
 User `hornunga@colorrado` released the packages in the `octomap_mapping` repository by running `/usr/bin/bloom-release octomap_mapping --track hydro --rosdistro hydro` on `Thu, 09 Jan 2014 10:21:53 -0000`
