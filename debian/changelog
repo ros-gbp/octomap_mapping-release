@@ -1,0 +1,152 @@
+ros-hydro-octomap-mapping (0.5.2-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Wed, 08 Jan 2014 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.5.1-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Sun, 24 Nov 2013 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.5.0-0raring) raring; urgency=high
+
+  * URLs in package.xml
+  * Catkinization, remove support for arm_navigation
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Wed, 23 Oct 2013 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.9-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Wed, 26 Jun 2013 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.8-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Mon, 07 Jan 2013 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.6-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Sun, 27 Jan 2013 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.5-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Sun, 17 Jun 2012 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.4-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Thu, 19 Apr 2012 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.3-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Mon, 16 Apr 2012 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.2-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Thu, 15 Mar 2012 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.4.1-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Tue, 21 Feb 2012 15:50:00 -0000
+
+ros-hydro-octomap-mapping (0.4.0-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Tue, 21 Feb 2012 14:37:00 -0000
+
+ros-hydro-octomap-mapping (0.3.8-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Wed, 25 Apr 2012 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.7-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Tue, 21 Feb 2012 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.6-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Sun, 08 Jan 2012 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.5-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Sat, 29 Oct 2011 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.4-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Tue, 11 Oct 2011 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.3-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Wed, 17 Aug 2011 05:41:00 -0000
+
+ros-hydro-octomap-mapping (0.3.2-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Mon, 08 Aug 2011 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.1-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Thu, 14 Jul 2011 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.3.0-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Mon, 27 Jun 2011 22:00:00 -0000
+
+ros-hydro-octomap-mapping (0.2.0-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Tue, 15 Mar 2011 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.1.2-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Mon, 22 Nov 2010 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.1.1-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Tue, 16 Nov 2010 23:00:00 -0000
+
+ros-hydro-octomap-mapping (0.1.0-0raring) raring; urgency=high
+
+
+
+ -- Armin Hornung <hornunga@informatik.uni-freiburg.de>  Mon, 15 Nov 2010 23:00:00 -0000
+
+
