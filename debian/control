@@ -1,0 +1,12 @@
+Source: ros-hydro-octomap-server
+Section: misc
+Priority: extra
+Maintainer: Armin Hornung <hornunga@informatik.uni-freiburg.de>
+Build-Depends: debhelper (>= 7.0.50~), libpcl-1.7-all-dev, ros-hydro-catkin, ros-hydro-dynamic-reconfigure, ros-hydro-nav-msgs, ros-hydro-nodelet, ros-hydro-octomap, ros-hydro-octomap-msgs, ros-hydro-octomap-ros, ros-hydro-pcl-conversions, ros-hydro-pcl-ros, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-std-srvs, ros-hydro-visualization-msgs
+Homepage: http://www.ros.org/wiki/octomap_server
+Standards-Version: 3.9.2
+
+Package: ros-hydro-octomap-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl-1.7-all, ros-hydro-dynamic-reconfigure, ros-hydro-nav-msgs, ros-hydro-nodelet, ros-hydro-octomap, ros-hydro-octomap-msgs, ros-hydro-octomap-ros, ros-hydro-pcl-conversions, ros-hydro-pcl-ros, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-std-srvs, ros-hydro-visualization-msgs
+Description: octomap_server loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format. It also allows to incrementally build 3D OctoMaps, and provides map saving in the node octomap_saver.
