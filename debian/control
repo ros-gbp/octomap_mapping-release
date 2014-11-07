@@ -1,0 +1,12 @@
+Source: ros-indigo-octomap-server
+Section: misc
+Priority: extra
+Maintainer: Armin Hornung <hornunga@informatik.uni-freiburg.de>
+Build-Depends: debhelper (>= 9.0.0), libpcl-1.7-all-dev, ros-indigo-catkin, ros-indigo-dynamic-reconfigure, ros-indigo-nav-msgs, ros-indigo-nodelet, ros-indigo-octomap, ros-indigo-octomap-msgs, ros-indigo-octomap-ros, ros-indigo-pcl-conversions, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-visualization-msgs
+Homepage: http://www.ros.org/wiki/octomap_server
+Standards-Version: 3.9.2
+
+Package: ros-indigo-octomap-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl-1.7-all, ros-indigo-dynamic-reconfigure, ros-indigo-nav-msgs, ros-indigo-nodelet, ros-indigo-octomap, ros-indigo-octomap-msgs, ros-indigo-octomap-ros, ros-indigo-pcl-conversions, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-visualization-msgs
+Description: octomap_server loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format. It also allows to incrementally build 3D OctoMaps, and provides map saving in the node octomap_saver.
