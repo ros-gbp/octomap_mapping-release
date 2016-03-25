@@ -1,0 +1,13 @@
+Source: ros-jade-octomap-server
+Section: misc
+Priority: extra
+Maintainer: Armin Hornung <hornunga@informatik.uni-freiburg.de>
+Build-Depends: debhelper (>= 9.0.0), libpcl-1.7-all-dev, ros-jade-catkin, ros-jade-dynamic-reconfigure, ros-jade-nav-msgs, ros-jade-nodelet, ros-jade-octomap, ros-jade-octomap-msgs, ros-jade-octomap-ros, ros-jade-pcl-conversions, ros-jade-pcl-ros, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-std-msgs, ros-jade-std-srvs, ros-jade-visualization-msgs
+Homepage: http://www.ros.org/wiki/octomap_server
+Standards-Version: 3.9.2
+
+Package: ros-jade-octomap-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl-1.7-all, ros-jade-dynamic-reconfigure, ros-jade-nav-msgs, ros-jade-nodelet, ros-jade-octomap, ros-jade-octomap-msgs, ros-jade-octomap-ros, ros-jade-pcl-conversions, ros-jade-pcl-ros, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-std-msgs, ros-jade-std-srvs, ros-jade-visualization-msgs
+Description: octomap_server loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format.
+ It also allows to incrementally build 3D OctoMaps, and provides map saving in the node octomap_saver.
