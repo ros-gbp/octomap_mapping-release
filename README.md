@@ -1,3 +1,28 @@
+## octomap_mapping (jade) - 0.6.0-0
+
+The packages in the `octomap_mapping` repository were released into the `jade` distro by running `/usr/bin/bloom-release octomap_mapping --track jade --rosdistro jade` on `Fri, 25 Mar 2016 19:53:25 -0000`
+
+These packages were released:
+- `octomap_mapping`
+- `octomap_server`
+
+Version of package(s) in repository `octomap_mapping`:
+
+- upstream repository: https://github.com/OctoMap/octomap_mapping
+- release repository: https://github.com/ros-gbp/octomap_mapping-release.git
+- rosdistro version: `0.5.3-0`
+- old version: `0.5.3-0`
+- new version: `0.6.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## octomap_mapping (jade) - 0.5.3-0
 
 The packages in the `octomap_mapping` repository were released into the `jade` distro by running `/usr/bin/bloom-release octomap_mapping --track jade --rosdistro jade --new-track` on `Tue, 03 Nov 2015 19:14:50 -0000`
