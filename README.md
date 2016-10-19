@@ -1,3 +1,28 @@
+## octomap_mapping (kinetic) - 0.6.1-0
+
+The packages in the `octomap_mapping` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --ros-distro kinetic octomap_mapping` on `Wed, 19 Oct 2016 17:13:30 -0000`
+
+These packages were released:
+- `octomap_mapping`
+- `octomap_server`
+
+Version of package(s) in repository `octomap_mapping`:
+
+- upstream repository: https://github.com/OctoMap/octomap_mapping
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## octomap_mapping (indigo) - 0.6.0-0
 
 The packages in the `octomap_mapping` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo octomap_mapping` on `Fri, 25 Mar 2016 21:16:46 -0000`
