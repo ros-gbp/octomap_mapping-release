@@ -1,3 +1,28 @@
+## octomap_mapping (melodic) - 0.6.1-0
+
+The packages in the `octomap_mapping` repository were released into the `melodic` distro by running `/usr/bin/bloom-release octomap_mapping --track melodic --rosdistro melodic --new-track` on `Fri, 18 Jan 2019 10:59:21 -0000`
+
+These packages were released:
+- `octomap_mapping`
+- `octomap_server`
+
+Version of package(s) in repository `octomap_mapping`:
+
+- upstream repository: https://github.com/OctoMap/octomap_mapping
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.1`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.14.0`
+- rosdistro version: `0.7.1`
+- vcstools version: `0.1.40`
+
+
 ## octomap_mapping (kinetic) - 0.6.1-0
 
 The packages in the `octomap_mapping` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --ros-distro kinetic octomap_mapping` on `Wed, 19 Oct 2016 17:13:30 -0000`
