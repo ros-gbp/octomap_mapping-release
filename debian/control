@@ -1,0 +1,13 @@
+Source: ros-melodic-octomap-server
+Section: misc
+Priority: extra
+Maintainer: Wolfgang Merkt <w.merkt+oss@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libpcl-dev, ros-melodic-catkin, ros-melodic-dynamic-reconfigure, ros-melodic-nav-msgs, ros-melodic-nodelet, ros-melodic-octomap, ros-melodic-octomap-msgs, ros-melodic-octomap-ros, ros-melodic-pcl-conversions, ros-melodic-pcl-ros, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-std-srvs, ros-melodic-visualization-msgs
+Homepage: http://www.ros.org/wiki/octomap_server
+Standards-Version: 3.9.2
+
+Package: ros-melodic-octomap-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl-apps1.8, libpcl-common1.8, libpcl-features1.8, libpcl-filters1.8, libpcl-io1.8, libpcl-kdtree1.8, libpcl-keypoints1.8, libpcl-ml1.8, libpcl-octree1.8, libpcl-outofcore1.8, libpcl-people1.8, libpcl-recognition1.8, libpcl-registration1.8, libpcl-sample-consensus1.8, libpcl-search1.8, libpcl-segmentation1.8, libpcl-stereo1.8, libpcl-surface1.8, libpcl-tracking1.8, libpcl-visualization1.8, ros-melodic-dynamic-reconfigure, ros-melodic-nav-msgs, ros-melodic-nodelet, ros-melodic-octomap, ros-melodic-octomap-msgs, ros-melodic-octomap-ros, ros-melodic-pcl-conversions, ros-melodic-pcl-ros, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-std-srvs, ros-melodic-visualization-msgs
+Description: octomap_server loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format.
+ It also allows to incrementally build 3D OctoMaps, and provides map saving in the node octomap_saver.
