@@ -2,6 +2,9 @@
 Changelog for package octomap_mapping
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.3 (2019-01-28)
+------------------
+
 0.6.2 (2019-01-27)
 ------------------
 * Update maintainer email (Wolfgang Merkt)
