@@ -2,6 +2,28 @@
 Changelog for package octomap_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.4 (2020-01-08)
+------------------
+* Add private node handle to fix nodelet support (`#61 <https://github.com/OctoMap/octomap_mapping/issues/61>`_), fixes `#39 <https://github.com/OctoMap/octomap_mapping/issues/39>`_
+* Add octomap_server_color library by default (`#60 <https://github.com/OctoMap/octomap_mapping/issues/60>`_) - by Matthew Powelson
+* Check if part of a voxel is in occupancy range (`#59 <https://github.com/OctoMap/octomap_mapping/issues/59>`_) - by Jasper v. B.
+* Contributors: Matthew Powelson, Wolfgang Merkt, Jasper v. B.
+
+0.6.3 (2019-01-28)
+------------------
+* Fix compilation on Debian Stretch
+* Get rgb from point cloud iterator without byte shift
+* Contributors: Kentaro Wada, Wolfgang Merkt
+
+0.6.2 (2019-01-27)
+------------------
+* Update maintainer email (Wolfgang Merkt)
+* Change catkin_package `DEPENDS` to `OCTOMAP` to avoid CMake warning
+* Update maintainer email (Arming Hornung)
+* Update to use non deprecated pluginlib macro
+* Fixed memory leak of colors pointer if COLOR_OCTOMAP_SERVER defined
+* Contributors: Armin Hornung, Mikael Arguedas, Ronky, Wolfgang Merkt
+
 0.6.1 (2016-10-19)
 ------------------
 * Fix for Colored Octomap: Use PCLPoint everywhere
