@@ -1,0 +1,13 @@
+Source: ros-kinetic-octomap-server
+Section: misc
+Priority: optional
+Maintainer: Wolfgang Merkt <w.merkt+oss@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libpcl-dev, ros-kinetic-catkin, ros-kinetic-dynamic-reconfigure, ros-kinetic-nav-msgs, ros-kinetic-nodelet, ros-kinetic-octomap, ros-kinetic-octomap-msgs, ros-kinetic-octomap-ros, ros-kinetic-pcl-conversions, ros-kinetic-pcl-ros, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-visualization-msgs
+Homepage: http://www.ros.org/wiki/octomap_server
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-octomap-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl1.7, ros-kinetic-dynamic-reconfigure, ros-kinetic-nav-msgs, ros-kinetic-nodelet, ros-kinetic-octomap, ros-kinetic-octomap-msgs, ros-kinetic-octomap-ros, ros-kinetic-pcl-conversions, ros-kinetic-pcl-ros, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-visualization-msgs
+Description: octomap_server loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format.
+ It also allows to incrementally build 3D OctoMaps, and provides map saving in the node octomap_saver.
