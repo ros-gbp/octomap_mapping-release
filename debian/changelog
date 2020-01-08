@@ -1,0 +1,190 @@
+ros-kinetic-octomap-mapping (0.6.4-1xenial) xenial; urgency=high
+
+
+
+ -- Wolfgang Merkt <w.merkt+oss@gmail.com>  Wed, 08 Jan 2020 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.6.3-1xenial) xenial; urgency=high
+
+
+
+ -- Wolfgang Merkt <w.merkt+oss@gmail.com>  Mon, 28 Jan 2019 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.6.2-1xenial) xenial; urgency=high
+
+  * Update maintainer email (Wolfgang Merkt)
+  * Contributors: Wolfgang Merkt
+
+ -- Wolfgang Merkt <w.merkt+oss@gmail.com>  Sun, 27 Jan 2019 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.6.1-1xenial) xenial; urgency=high
+
+  * Adjust maintainer email
+  * Contributors: Armin Hornung
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 18 Oct 2016 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.6.0-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Fri, 25 Mar 2016 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.5.3-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Thu, 09 Jan 2014 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.5.2-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Thu, 09 Jan 2014 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.5.1-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Mon, 25 Nov 2013 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.5.0-1xenial) xenial; urgency=high
+
+  * URLs in package.xml
+  * Catkinization, remove support for arm_navigation
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 23 Oct 2013 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.9-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 26 Jun 2013 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.8-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 08 Jan 2013 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.6-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Mon, 28 Jan 2013 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.5-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Sun, 17 Jun 2012 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.4-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Thu, 19 Apr 2012 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.3-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Mon, 16 Apr 2012 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.2-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Fri, 16 Mar 2012 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.1-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 21 Feb 2012 16:50:00 -0000
+
+ros-kinetic-octomap-mapping (0.4.0-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 21 Feb 2012 15:37:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.8-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 25 Apr 2012 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.7-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 22 Feb 2012 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.6-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Mon, 09 Jan 2012 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.5-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Sat, 29 Oct 2011 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.4-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 11 Oct 2011 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.3-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 17 Aug 2011 06:41:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.2-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Mon, 08 Aug 2011 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.1-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Thu, 14 Jul 2011 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.3.0-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Mon, 27 Jun 2011 23:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.2.0-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 16 Mar 2011 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.1.2-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 23 Nov 2010 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.1.1-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Wed, 17 Nov 2010 00:00:00 -0000
+
+ros-kinetic-octomap-mapping (0.1.0-1xenial) xenial; urgency=high
+
+
+
+ -- Armin Hornung <armin@hornung.io>  Tue, 16 Nov 2010 00:00:00 -0000
+
+
