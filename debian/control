@@ -1,0 +1,12 @@
+Source: ros-melodic-octomap-mapping
+Section: misc
+Priority: optional
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/octomap_mapping
+Standards-Version: 3.9.2
+
+Package: ros-melodic-octomap-mapping
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-octomap-server
+Description: Mapping tools to be used with the OctoMap library, implementing a 3D occupancy grid mapping.
