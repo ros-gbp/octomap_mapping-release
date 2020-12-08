@@ -2,6 +2,9 @@
 Changelog for package octomap_mapping
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.6 (2020-12-08)
+------------------
+
 0.6.5 (2020-04-23)
 ------------------
 * Update maintainer email
