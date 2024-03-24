@@ -1,3 +1,28 @@
+## octomap_mapping (noetic) - 0.6.8-1
+
+The packages in the `octomap_mapping` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic octomap_mapping --non-interactive` on `Sun, 24 Mar 2024 16:02:30 -0000`
+
+These packages were released:
+- `octomap_mapping`
+- `octomap_server`
+
+Version of package(s) in repository `octomap_mapping`:
+
+- upstream repository: https://github.com/OctoMap/octomap_mapping
+- release repository: https://github.com/ros-gbp/octomap_mapping-release.git
+- rosdistro version: `0.6.7-1`
+- old version: `0.6.7-1`
+- new version: `0.6.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## octomap_mapping (noetic) - 0.6.7-1
 
 The packages in the `octomap_mapping` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic octomap_mapping` on `Fri, 24 Dec 2021 12:37:49 -0000`
