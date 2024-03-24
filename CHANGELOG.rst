@@ -2,6 +2,9 @@
 Changelog for package octomap_mapping
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.8 (2024-03-24)
+------------------
+
 0.6.7 (2021-12-24)
 ------------------
 * Address warnings on Noetic (`#81 <https://github.com/octomap/octomap_mapping/issues/81>`_)
