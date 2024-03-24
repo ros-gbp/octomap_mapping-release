@@ -128,6 +128,7 @@ protected:
   void reconfigureCallback(octomap_server::OctomapServerConfig& config, uint32_t level);
   void publishBinaryOctoMap(const ros::Time& rostime = ros::Time::now()) const;
   void publishFullOctoMap(const ros::Time& rostime = ros::Time::now()) const;
+  void publishProjected2DMap(const ros::Time& rostime = ros::Time::now());
   virtual void publishAll(const ros::Time& rostime = ros::Time::now());
 
   /**
@@ -218,6 +219,7 @@ protected:
   octomap::OcTreeKey m_updateBBXMin;
   octomap::OcTreeKey m_updateBBXMax;
 
+  double m_minRange;
   double m_maxRange;
   std::string m_worldFrameId; // the map frame
   std::string m_baseFrameId; // base of the robot for ground plane filtering
